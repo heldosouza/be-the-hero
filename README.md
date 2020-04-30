@@ -3,6 +3,7 @@
 Aplicação desenvolvida durate a Semana Omnistack 11.
 
 ## Descrição
+![Card](../assets/card.png)
 O principal intuito da aplicação é conectar <b>"Heróis"</b> com desejo de ajudar Organizações Não Governamentais (ONG) espalhadas por todo o Brasil.
 Nesta aplicação as ONGs podem anunciar causas e encontrar pessoas dispostas a ajudá-las!
 
