@@ -1,6 +1,6 @@
 # Be The Hero
 
-Aplicação desenvolvida durate a Semana Omnistack 11.
+Aplicação desenvolvida durante a Semana Omnistack 11.
 
 ## Descrição
 ![Card](../assets/card.png)
