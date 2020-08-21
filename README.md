@@ -8,28 +8,28 @@ O principal intuito da aplicação é conectar <b>"Heróis"</b> com desejo de aj
 Nesta aplicação as ONGs podem anunciar causas e encontrar pessoas dispostas a ajudá-las!
 
 ## Tecnologias
-#### ⚙️ Back-end 
+#### ⚙️ Backend 
 Node.js
 
-#### 💻 Front-end (Web)
+#### 💻 Frontend (Web)
 React
 
-#### 📱 Front-end (Mobile)
+#### 📱 Frontend (Mobile)
 React Native <br />
 Expo <br />
 
 ## Como executar?
 1. Clone o repositório
-#### Back-end
+#### Backend
 2.1 Abra o terminal e navegue até o diretório da pasta 'backend'. <br />
 2.2 Execute o comando ```npm install``` para instalar as dependências. <br />
 2.3 Execute o comando ```npm start``` para iniciar o servidor. <br />
-#### Front-end (Web)
+#### Frontend (Web)
 3.1 Abra o terminal e navegue até o diretório da pasta 'frontend'. <br />
 3.2 Execute o comando ```npm install``` para instalar as dependências. <br />
 3.3 Execute o comando ```npm start``` para abrir o front-end em seu navegador. <br />
 
-#### Front-end (Mobile)
+#### Frontend (Mobile)
 4.1 Instale o aplicativo <b>Expo</b> em seu smartphone.
 4.2 Abra o terminal e navegue até o diretório da pasta 'mobile'. <br />
 4.3 Execute o comando ```npm install``` para instalar as dependências. <br />
