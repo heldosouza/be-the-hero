@@ -36,4 +36,4 @@ Expo <br />
 4.4 Ao executar o comando ```expo start``` uma janela será aberta em seu navegador. <br />
 4.5 Escaneie o QR Code utilizando o aplicativo Expo. <br />
 
-Para acessar o back-end através do aplicativo, é necessário alterar a variável ```baseURL``` em  ```be-the-hero\mobile\src\services\api.js``` de acordo com o endereço IP da sua máquina.
+Para acessar o backend através do aplicativo, altere a variável ```baseURL``` em  ```be-the-hero\mobile\src\services\api.js``` de acordo com o endereço IP da sua máquina.
